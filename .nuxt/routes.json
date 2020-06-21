@@ -1,0 +1,23 @@
+[
+  {
+    "name": "page1",
+    "path": "/page1",
+    "component": "C:\\\\Users\\\\rybak\\\\Desktop\\\\sneaker-test\\\\pages\\\\page1.vue",
+    "chunkName": "pages/page1",
+    "_name": "_05a5a126"
+  },
+  {
+    "name": "page2",
+    "path": "/page2",
+    "component": "C:\\\\Users\\\\rybak\\\\Desktop\\\\sneaker-test\\\\pages\\\\page2.vue",
+    "chunkName": "pages/page2",
+    "_name": "_05b3b8a7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\rybak\\\\Desktop\\\\sneaker-test\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b9289b14"
+  }
+]
